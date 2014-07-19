@@ -17,7 +17,6 @@ void draw(){
   x = mouseX;
   y = mouseY;
   r1 = 20;
-  //ellipse(x,y,2*r1,2*r1);
   
   float dx = x - cx;
   float dy = y - cy;
