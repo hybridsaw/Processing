@@ -14,6 +14,7 @@ void setup(){
 void draw(){
   background(255);
   stroke(0);
+  //   (  x,  y,     width,    height)
   rect(left,top,right-left,bottom-top);
   float x,y,r1;
   x = mouseX;
