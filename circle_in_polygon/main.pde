@@ -10,7 +10,7 @@ void setup() {
   //line = new Line(new PVector(10.0f, 150.0f), new PVector(200.0f, 150.0f));
   //star = new Star(new PVector(width/2,25),100);
                         //num , position , r 
-  octagon = new Polygon(8, new PVector(width/2, height/2), 100);
+  octagon = new Polygon(5, new PVector(width/2, height/2), 100);
   mouse = new Mouse();
 }
 
